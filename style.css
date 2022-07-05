@@ -1,0 +1,267 @@
+*{
+    padding: 0;
+    margin: 0;
+  }
+  body{
+    background-color: gray;
+  }
+  #backgroundImage{
+    height: 210vh;
+    width: 100vw;
+    position: relative;
+        top: 0;
+        left: 0;
+  }
+  #div1{
+    height: 180vh;
+    width: 80vw;
+  }
+  #none{
+    opacity: 0.5;  
+    height: 170vh;
+    width:70vw;
+    position: absolute;
+      top: 60px;
+      left: 0px;
+    margin-top: 10vh; 
+    margin-left: 15vw;
+  }
+  
+  #TitleName{
+    position: absolute;
+      top: 150px;
+      left: 0px;
+    margin-left: 40%;
+  }
+  #div3{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+      top: 230px;
+      left: 40%;
+  }
+  #field1{
+    position: absolute;
+      top: 270px;
+      left: 45%;
+  }
+  #textBox1{
+    position: absolute;
+      top: 300px;
+      left: 36%;
+      opacity: 0.5;
+      background-color:lightpink;
+      color: red;
+      font-size: 1.5em;
+      /* font-weight:200; */
+      height: 15vh;
+      width: 30vw;
+  }
+  #a{
+    position: absolute;
+      top: 420px;
+      left: 44px;
+    margin-left: 41%;
+  }
+  #textBox2{
+    position: absolute;
+      top: 450px;
+      left: 36%;
+      opacity: 0.5;
+      background-color:lightpink;
+      color: red;
+      font-size: 1.5em;
+      /* font-weight:200; */
+      height: 15vh;
+      width: 30vw;
+  }
+  #b{
+    position: absolute;
+      top: 560px;
+      left: 44px;
+    margin-left: 39%;
+  }
+  #yesMayBe{
+    position: absolute;
+      top: 600px;
+      left: 50px;
+    margin-left: 40%;
+  }
+  #yes{
+    position: absolute;
+      top: 596px;
+      left: 70px;
+    margin-left: 40%;
+    color: white;
+  }
+  #yesMayBe2{
+    position: absolute;
+      top: 600px;
+      left: 120px;
+    margin-left: 40%;
+  }
+  #Maybe{
+    position: absolute;
+      top: 596px;
+      left: 140px;
+    margin-left: 40%;
+    color: white;
+  }
+  #how{
+    position: absolute;
+      top: 630px;
+      left: 13px;
+    margin-left: 38%;
+  
+  }
+  #happy{
+    position: absolute;
+      top: 660px;
+      left: 40px;
+    margin-left: 41%;
+  }
+  #Happy{
+    position: absolute;
+      top: 656px;
+      left: 60px;
+    margin-left: 41%;
+    color: white;
+  }
+  #irritate{
+    position: absolute;
+      top: 660px;
+      left: 120px;
+    margin-left: 40%;
+  }
+  #Irritated{
+    position: absolute;
+      top: 656px;
+      left: 140px;
+    margin-left: 40%;
+    color: white;
+  }
+  #like{
+    position: absolute;
+      top: 690px;
+      left: 9px;
+    margin-left: 38%;
+  }
+  #do{
+    position: absolute;
+      top:720px;
+      left: 40px;
+    margin-left: 41%;
+  }
+  #s{
+    position: absolute;
+      top: 717px;
+      left: 60px;
+    margin-left: 41%;
+    color: white;
+  }
+  #no{
+    position: absolute;
+      top: 720px;
+      left: 120px;
+    margin-left: 40%;
+  }
+  #No{
+    position: absolute;
+      top: 717px;
+      left: 140px;
+    margin-left: 40%;
+    color: white;
+  }
+  #four{
+    position: absolute;
+      top: 760px;
+      left: 40px;
+    margin-left: 39%;
+  }
+  #bestColour{
+    position: absolute;
+      top: 790px;
+      left: -10px;
+    margin-left: 38%;
+  }
+  #red{
+    position: absolute;
+      top: 787px;
+      left: 10px;
+    margin-left: 38%;
+    color: white;
+  }
+  #checkbox1{
+    position: absolute;
+      top: 790px;
+      left: 45px;
+    margin-left: 38%;
+  }
+  #Black{
+    position: absolute;
+      top: 788px;
+      left: 60px;
+    margin-left: 38%;
+    color: white;
+  }
+  #checkbox2{
+    position: absolute;
+      top: 790px;
+      left: 110px;
+    margin-left: 38%;
+  }
+  #White{
+    position: absolute;
+      top: 788px;
+      left: 130px;
+    margin-left: 38%;
+    color: white;
+  }
+  #checkbox3{
+    position: absolute;
+      top: 790px;
+      left: 190px;
+    margin-left: 37%;
+  }
+  #Blue{
+    position: absolute;
+      top: 788px;
+      left: 210px;
+    margin-left: 37%;
+    color: white;
+  }
+  #checkbox4{
+    position: absolute;
+      top: 790px;
+      left: 250px;
+    margin-left: 37%;
+  }
+  #Green{
+    position: absolute;
+      top: 788px;
+      left: 270px;
+    margin-left: 37%;
+    color: white;
+  }
+  #best{
+    position: absolute;
+      top: 820px;
+      left: 40%;
+  }
+  #textBox10{
+    position: absolute;
+      top: 850px;
+      left: 36%;
+      opacity: 0.5;
+      background-color:lightpink;
+      color: red;
+      font-size: 1.5em;
+      /* font-weight:200; */
+      height: 15vh;
+      width: 30vw;
+  }
+  
+  
+  
